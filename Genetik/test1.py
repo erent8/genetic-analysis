@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import ttk, scrolledtext
 from Bio import Entrez
 from Bio import SeqIO
-
+ 
 # NCBI Entrez e-posta adresini tanımla
 Entrez.email = "themimar080@gmail.com"
 
