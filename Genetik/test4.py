@@ -4,7 +4,7 @@ from Bio import Entrez
 from Bio import SeqIO
 
 # NCBI Entrez
-Entrez.email = "themimar080@gmail.com"
+Entrez.email = "YOUR_EMAİL"
 
 def fetch_pdyn_gene(accession_id):
     try:
